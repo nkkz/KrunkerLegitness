@@ -18,8 +18,8 @@ https://www.tampermonkey.net/
 - V69 To help me to understand somes lines
 
 # JOIN US 
-Come on our Discord to share or to have more updated hacks.
-https://discord.gg/t3GMDDd
-https://discord.gg/t3GMDDd
-https://discord.gg/t3GMDDd
+- Come on our Discord to share or to have more updated hacks.
+- https://discord.gg/t3GMDDd
+- https://discord.gg/t3GMDDd
+- https://discord.gg/t3GMDDd
 
