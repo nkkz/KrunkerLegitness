@@ -10,8 +10,8 @@ Features :
 https://www.tampermonkey.net/ 
 
 # INSTALL :
-Copy the krunlergitness.txt script 
-Past it into tampermonkey , save it.
+- Copy the krunlergitness.txt script 
+- Past it into tampermonkey , save it.
 
 # Credits 
 - Cheat Sourcecode to hrt/ttap : https://github.com/hrt
